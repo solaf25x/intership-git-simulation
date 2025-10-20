@@ -1,0 +1,3 @@
+name solaf 
+univirsity tcc 
+what i want to learn git basics
