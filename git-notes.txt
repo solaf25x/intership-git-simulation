@@ -1,0 +1,11 @@
+ What is a commit?
+  A commit is a snapshot of changes in the repository.
+
+  What is a branch?
+  A branch is an independent line of development.
+
+  Difference between add and commit?
+  'add' stages changes, 'commit' saves them to history.
+
+  'add' stages changes, 'commit' saves them to history.
+A conflict in Git happens when two branches change the same part of a file differently, and Git doesn’t know which version to keep. You must fix it manually before completing the merge.
