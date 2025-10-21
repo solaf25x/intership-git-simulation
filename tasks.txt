@@ -1,0 +1,3 @@
+phase 1: repo setup
+phase 2: commits
+phase 3: branching
